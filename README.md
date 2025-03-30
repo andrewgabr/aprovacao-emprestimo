@@ -2,6 +2,15 @@
 
 Este projeto tem como objetivo criar um modelo preditivo para aprovação de empréstimos, com foco na identificação de clientes que têm maior probabilidade de não pagar o empréstimo. O modelo utiliza **Random Forest** para prever a inadimplência, sacrificando parte da acurácia para maximizar a identificação de inadimplentes.
 
+## Imagens
+
+Aqui estão as imagens que mostram a previsão de inadimplência para **Aprovado** e **Não Aprovado**:
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/andrewgabr/aprovacao-emprestimo-ML/blob/master/imgs/Screenshot%202025-03-30%20184348.png?raw=true" alt="Aprovado" style="width: 48%;"/>
+    <img src="https://github.com/andrewgabr/aprovacao-emprestimo-ML/blob/master/imgs/Screenshot%202025-03-30%20184432.png?raw=true" alt="Não Aprovado" style="width: 48%;"/>
+</div>
+
 ## Descrição
 
 O modelo foi desenvolvido utilizando técnicas de Machine Learning e um fluxo de trabalho de pré-processamento de dados com pipelines. A interface interativa foi criada com **Streamlit**, permitindo a fácil interação com o modelo.
@@ -55,11 +64,6 @@ Aqui estão algumas imagens de exemplos dos gráficos e da interface do modelo:
 
 - **Gráfico de importância das variáveis**:
   ![Importância das Variáveis](https://github.com/andrewgabr/aprovacao-emprestimo-ML/blob/master/imgs/feature_importance.png?raw=true)
-
-- **Exemplo de previsão de inadimplência na interface Streamlit**:
-
-![Importância das Variáveis](https://github.com/andrewgabr/aprovacao-emprestimo-ML/blob/master/imgs/Screenshot%202025-03-30%20184348.png?raw=true)
-![Importância das Variáveis](https://github.com/andrewgabr/aprovacao-emprestimo-ML/blob/master/imgs/Screenshot%202025-03-30%20184432.png?raw=true)
 
 ## Como Executar
 
