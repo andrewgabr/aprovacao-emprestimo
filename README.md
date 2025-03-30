@@ -54,10 +54,10 @@ Foi desenvolvida uma interface com **Streamlit**, onde os usuários podem inseri
 Aqui estão algumas imagens de exemplos dos gráficos e da interface do modelo:
 
 - **Gráfico de importância das variáveis**:
-  ![Importância das Variáveis](assets/feature_importance.png)
+  ![Importância das Variáveis](https://github.com/andrewgabr/aprovacao-emprestimo-ML/blob/master/imgs/feature_importance.png?raw=true)
 
 - **Exemplo de previsão de inadimplência na interface Streamlit**:
-  ![Interface Streamlit](assets/streamlit_example.png)
+  ![Interface Streamlit](https://github.com/andrewgabr/aprovacao-emprestimo-ML/blob/master/imgs/Screenshot%202025-03-30%20184432.png?raw=true)
 
 ## Como Executar
 
