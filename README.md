@@ -58,10 +58,8 @@ Aqui estão algumas imagens de exemplos dos gráficos e da interface do modelo:
 
 - **Exemplo de previsão de inadimplência na interface Streamlit**:
 
-  <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/andrewgabr/aprovacao-emprestimo-ML/blob/master/imgs/aprovado.png?raw=true" alt="Aprovado" style="width: 48%;"/>
-    <img src="https://github.com/andrewgabr/aprovacao-emprestimo-ML/blob/master/imgs/nao_aprovado.png?raw=true" alt="Não Aprovado" style="width: 48%;"/>
-  </div>
+![Importância das Variáveis](https://github.com/andrewgabr/aprovacao-emprestimo-ML/blob/master/imgs/Screenshot%202025-03-30%20184348.png?raw=true)
+![Importância das Variáveis](https://github.com/andrewgabr/aprovacao-emprestimo-ML/blob/master/imgs/Screenshot%202025-03-30%20184432.png?raw=true)
 
 ## Como Executar
 
