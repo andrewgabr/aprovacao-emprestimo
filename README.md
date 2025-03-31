@@ -7,8 +7,7 @@ Este projeto tem como objetivo criar um modelo preditivo para aprovação de emp
 Aqui estão as imagens que mostram a previsão de inadimplência para **Aprovado** e **Não Aprovado**:
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <img src="https://github.com/andrewgabr/aprovacao-emprestimo-ML/blob/master/imgs/Screenshot%202025-03-30%20184348.png?raw=true" alt="Aprovado""/>
-    <img src="https://github.com/andrewgabr/aprovacao-emprestimo-ML/blob/master/imgs/Screenshot%202025-03-30%20184432.png?raw=true" alt="Não Aprovado"/>
+    <img src="[https://github.com/andrewgabr/aprovacao-emprestimo-ML/blob/master/imgs/Screenshot%202025-03-30%20184348.png?raw=true](https://github.com/andrewgabr/aprovacao-emprestimo-ML/blob/master/imgs/Ex.%20Reprova%C3%A7%C3%A3o.jpg?raw=true)" alt="Aprovado""/>
 </div>
 
 ## Descrição
