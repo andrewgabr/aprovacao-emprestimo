@@ -6,13 +6,11 @@ Este projeto tem como objetivo criar um modelo preditivo para aprovação de emp
 
 Aqui estão as imagens que mostram a previsão de inadimplência para **Aprovado** e **Não Aprovado**:
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <img src="https://github.com/andrewgabr/aprovacao-emprestimo-ML/blob/master/imgs/Screenshot%202025-03-30%20184348.png?raw=true" alt="Aprovado""/>
-    <img src="https://github.com/andrewgabr/aprovacao-emprestimo-ML/blob/master/imgs/Screenshot%202025-03-30%20184432.png?raw=true" alt="Não Aprovado"/>
+<div style="text-align: center;">
+    <img src="https://github.com/andrewgabr/aprovacao-emprestimo-ML/blob/master/imgs/Ex.%20Reprova%C3%A7%C3%A3o.jpg?raw=true" alt="Resultado" style="width: 80%;" />
 </div>
 
 ## Descrição
-
 O modelo foi desenvolvido utilizando técnicas de Machine Learning e um fluxo de trabalho de pré-processamento de dados com pipelines. A interface interativa foi criada com **Streamlit**, permitindo a fácil interação com o modelo.
 
 ## Objetivo
